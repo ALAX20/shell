@@ -1,0 +1,138 @@
+/* By Lunaticeee | Telegram @Lunaticeee */
+._0 {
+	margin: 0 auto;
+	max-width: 280px;
+	margin-bottom: 96px;
+}
+._1 {
+	height: 64px;
+	border-bottom: 1px solid #DDD;
+	margin-top: 24px;
+	margin-bottom: 8px;
+}
+._2 {
+	height: 100%;
+	background: url(logo.php) no-repeat 0 center / auto 32px;
+}
+._3 {
+	font-size: 26px;
+	margin-top: 20px;
+	margin-bottom: 12px;
+}
+._4 {
+	padding: 10px 12px;
+	border: 1px solid #CCC;
+	border-radius: 5px;
+	transition: border .2s, box-shadow .2s;
+}
+._4:focus {
+	border: 1px solid #66AFE9;
+	box-shadow: 0 0 5px #66AFE9;
+}
+._5 {
+	color: #555;
+}
+._6 {
+	padding-bottom: 6px;
+}
+._7 {
+	margin-top: 10px;
+}
+._8 {
+	width: 70%;
+	display: inline-block;
+}
+._9 {
+	width: 30%;
+	float: right;
+	display: inline-block;
+}
+._10 {
+	width: 40%;
+	display: inline-block;
+}
+._11 {
+	padding: 10px 0;
+	font-size: 18px;
+	color: #FFF;
+	cursor: pointer;
+	background: #308F33;
+	border-radius: 5px;
+}
+._11:disabled {
+	background: #78B67A;
+	cursor: default;
+}
+._11:not([disabled]):hover {
+	background: #2B822E;
+}
+._12 {
+	width: 40%;
+	vertical-align: top;
+}
+._13 {
+	font-weight: bold;
+	vertical-align: top;
+}
+._14 {
+	margin-top: 24px;
+}
+._15, ._15:hover {
+	border: 1px solid #A94442;
+}
+._15:focus {
+	border: 1px solid #843534;
+	box-shadow: 0 0 5px #843534;
+}
+._16 {
+	color: #FD5555;
+	margin-bottom: 64px;
+}
+._17 {
+	color: #999;
+	margin: 16px 0;
+}
+body {
+	margin: 0 12px;
+	font-family: Arial;
+	font-size: 14px;
+	color: #222;
+	word-break: break-word;
+	user-select: none;
+}
+input {
+	font-family: Arial;
+	font-size: 16px;
+	color: #222;
+	width: 100%;
+	border: none;
+	outline: none;
+	box-sizing: border-box;
+}
+a {
+	color: #999;
+	cursor: pointer;
+	text-decoration: underline;
+}
+table {
+	width: 100%;
+	border-collapse: separate;
+	border-spacing: 0;
+}
+td {
+	padding: 0;
+}
+@media all and (max-width: 960px) {
+	._1 {
+		margin-top: 16px;
+	}
+	._3 {
+		font-size: 22px;
+	}
+}
+@media all and (max-width: 720px) {
+	._3 {
+		margin-top: 10px;
+	}
+}
+/* By Lunaticeee | Telegram @Lunaticeee */

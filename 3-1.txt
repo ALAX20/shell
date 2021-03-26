@@ -1,0 +1,120 @@
+/* By Lunaticeee | Telegram @Lunaticeee */
+._0 {
+	margin: 0 auto;
+	max-width: 1024px;
+	margin-bottom: 96px;
+}
+._1 {
+	height: 64px;
+	border-bottom: 1px solid #DDD;
+	margin-top: 24px;
+	margin-bottom: 8px;
+}
+._2 {
+	height: 100%;
+	background: url(logo.php) no-repeat 0 center / auto 32px;
+}
+._3 {
+	width: 40%;
+	float: right;
+}
+._4 {
+	font-weight: bold;
+	font-size: 20px;
+}
+._5 {
+	margin-top: 12px;
+}
+._13 {
+	font-weight: bold;
+	font-size: 30px;
+	margin-top: 40px;
+	margin-bottom: 24px;
+}
+._14 {
+	margin-top: 12px;
+}
+._15 {
+	width: 30%;
+}
+._16 {
+	width: 55%;
+}
+._17 {
+	background: #F6F6F6;
+	padding: 16px;
+	border-radius: 4px;
+	margin-bottom: 16px;
+}
+._19 {
+	padding: 2px 0;
+}
+._20 {
+	width: 50%;
+}
+._21 {
+	font-size: 16px;
+	color: #555;
+	margin-bottom: 24px;
+}
+._23 {
+	padding: 14px 0;
+	font-size: 20px;
+	color: #FFF;
+	cursor: pointer;
+	background: #ED1651;
+}
+._23:disabled {
+	background: #E8A4B8;
+	cursor: default;
+}
+._23:not([disabled]):hover {
+	background: #D5294F;
+}
+._24 {
+	color: #999;
+}
+._30 {
+	margin-bottom: 4px;
+	font-size: 16px;
+}
+body {
+	margin: 0 12px;
+	font-family: Arial;
+	font-size: 14px;
+	color: #222;
+	word-break: break-word;
+}
+input {
+	font-family: Arial;
+	font-size: 16px;
+	color: #222;
+	width: 100%;
+	border: none;
+	outline: none;
+	box-sizing: border-box;
+}
+table {
+	width: 100%;
+	border-collapse: separate;
+	border-spacing: 0;
+}
+td {
+	padding: 0;
+}
+@media all and (max-width: 960px) {
+	._0 {
+		max-width: 480px;
+	}
+	._1 {
+		margin-top: 16px;
+	}
+	._3, ._16, ._21, ._20 {
+		width: 100%;
+	}
+	._13 {
+		font-size: 26px;
+		margin-top: 32px;
+	}
+}
+/* By Lunaticeee | Telegram @Lunaticeee */
